@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [Twitter](https://twitter.com/ChiragKr04)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Im a native android developer and have intermediate knowledge with cross platform app building (with flutter). 
--->
+
