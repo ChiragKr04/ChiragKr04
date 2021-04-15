@@ -2,6 +2,8 @@
 #### I'm an Android Developer
 I'm a native android developer and have intermediate knowledge of cross-platform app building (with flutter).
 
+(https://github.com/ChiragKr04/ChiragKr04/blob/main/Web_Photo_Editor.jpg?raw=true)
+
 Skills: Native-Android / Flutter / Kotlin / Dart / Python / JAVA 
 
 - 🔭 I’m currently working on Open source projects and Self projects 
