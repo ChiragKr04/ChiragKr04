@@ -3,7 +3,9 @@
 I'm a native android developer and have intermediate knowledge of cross-platform app building (with flutter).
 
 ![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
-[![trophy](https://github-profile-trophy.vercel.app/?chiragkr04=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?ChiragKr04=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Skills: Native-Android / Flutter / Kotlin / Dart / Python / JAVA 
