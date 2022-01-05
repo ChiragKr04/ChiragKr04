@@ -2,7 +2,7 @@
 #### I'm a Flutter / Android Developer
 I'm a native android developer and have intermediate knowledge of cross-platform app building (with flutter).
 
-Currently working @![Fleksa](https://www.linkedin.com/company/fleksa/)
+Currently working @![](https://www.linkedin.com/company/fleksa/)
 
 ![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
 
