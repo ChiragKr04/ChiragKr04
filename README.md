@@ -1,7 +1,7 @@
 # 💫About Me :
 ### Hi there 👋, My name is Chirag
 #### I'm a Flutter / Android Developer
-I'm a native android developer and have intermediate knowledge of cross-platform app building (with flutter).
+Native and cross-platform application developer and always building fun things 😄
 
 Currently working [@Fleksa](https://fleksa.com/) as Flutter Dev
 
