@@ -10,9 +10,8 @@ Currently working [@Fleksa](https://fleksa.com/) as Flutter Dev
 Skills: Native-Android / Flutter / Kotlin / Dart / Python / JAVA 
 
 - 🔭 I’m currently working on Open source projects and Self projects 
-- 🌱 I’m currently learning MERN stack + three.js  
-- 👯 I’m looking to collaborate on three.js and flutter 
-- 🤔 I’m looking for help with MERN + three.js 
+- 🌱 I’m currently learning React.js and Ionic
+- 👯 I’m looking to collaborate on flutter 
 - 💬 Ask me about Anything you want 
 - 📫 How to reach me: [Twitter](https://twitter.com/ChiragKr04) [LinkedIn](https://www.linkedin.com/in/chirag-bargoojar-41330816b/)
 
