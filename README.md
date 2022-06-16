@@ -7,7 +7,7 @@ Currently working [@Fleksa](https://fleksa.com/) as Flutter Dev
 
 ![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
 
-Skills: Native-Android / Flutter / Kotlin / Dart / Python / JAVA 
+Skills: Native-Android / Flutter / Javascript / Kotlin / Dart / Python / JAVA 
 
 - 🔭 I’m currently working on Open source projects and Self projects 
 - 🌱 I’m currently learning React.js and Ionic
