@@ -1,5 +1,5 @@
-# 💫About Me :
-### Hi there 👋, My name is Chirag
+<h1 align="center">Hi there <img src="https://thumbs.gfycat.com/WillingSlightGraysquirrel-size_restricted.gif" width="30px"> I'm Chirag </h1>
+
 #### I'm a Flutter / Android Developer
 Native and cross-platform application developer and always building fun things 😄
 
