@@ -3,7 +3,7 @@
 #### I'm a Flutter / Android Developer
 Native and cross-platform application developer and always building fun things 😄
 
-Currently working at [Fleksa](https://fleksa.com/) as Flutter Dev | [Resume](https://docs.google.com/document/d/1GVdfTEE1pWiqRq0mXFx_W7Xe6E60BvM2ZsgfAe_aHwQ/edit?usp=sharing)
+Currently working at [NatWest Group](https://www.natwestgroup.com/) as Developer | [Resume](https://docs.google.com/document/d/1GVdfTEE1pWiqRq0mXFx_W7Xe6E60BvM2ZsgfAe_aHwQ/edit?usp=sharing)
 
 ![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
 
