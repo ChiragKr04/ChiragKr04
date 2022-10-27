@@ -26,7 +26,7 @@ Skills: Native-Android / Flutter / Javascript / Dart / Python / JAVA / Kotlin
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragKr04&theme=dark&hide_border=false">
 </p>
 <p align="center" width="100%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKr04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragKr04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
 
 [![@chiragkr04's Holopin board](https://holopin.me/chiragkr04)](https://holopin.io/@chiragkr04)
