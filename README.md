@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://thumbs.gfycat.com/WillingSlightGraysquirrel-size_restricted.gif" width="30px"> I'm Chirag </h1>
+<h1 align="center">Hi there <img src="https://emojigraph.org/media/apple/moai_1f5ff.png" width="30px"> I'm Chirag </h1>
 
 #### I'm a Flutter / Android Developer
 Native and cross-platform application developer and always building fun things 😄
