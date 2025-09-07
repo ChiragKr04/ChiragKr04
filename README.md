@@ -5,8 +5,6 @@ Architecting & designing scalable Full-Stack products/applications and always bu
 
 [Resume](https://docs.google.com/document/d/1GVdfTEE1pWiqRq0mXFx_W7Xe6E60BvM2ZsgfAe_aHwQ/edit?usp=sharing)
 
-![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
-
 Skills: Backend Engineering, Go, Typescript, Java, Frontend, React.Js, Javascript, MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, System Design
 
 - 🔭 I’m currently working on Open source projects and Self projects
