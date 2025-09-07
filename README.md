@@ -1,19 +1,18 @@
 <h1 align="center">Hi there <img src="https://emojigraph.org/media/apple/moai_1f5ff.png" width="30px"> I'm Chirag </h1>
 
-#### I'm a Flutter / Android Developer
-Native and cross-platform application developer and always building fun things 😄
+#### I'm a Senior Software Engineer 
+Architecting & designing scalable Full-Stack products/applications and always building fun things 😄
 
 [Resume](https://docs.google.com/document/d/1GVdfTEE1pWiqRq0mXFx_W7Xe6E60BvM2ZsgfAe_aHwQ/edit?usp=sharing)
 
 ![](https://raw.githubusercontent.com/ChiragKr04/ChiragKr04/main/Web_Photo_Editor.jpg)
 
-Skills: Native-Android / Flutter / Javascript / Dart / Python / JAVA / Kotlin
+Skills: Backend Engineering, Go, Typescript, Java, Frontend, React.Js, Javascript, MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, System Design
 
-- 🔭 I’m currently working on Open source projects and Self projects 
-- 🌱 I’m currently learning React.js and Ionic
-- 👯 I’m looking to collaborate on flutter 
+- 🔭 I’m currently working on Open source projects and Self projects
+- 🚀 Building [Creator Stock X](https://app.creatorstockx.com/) - Invest in creators economy 
 - 💬 Ask me about Anything you want 
-- 📫 How to reach me: [Twitter](https://twitter.com/ChiragKr04) [LinkedIn](https://www.linkedin.com/in/chirag-bargoojar-41330816b/)
+- 📫 How to reach me: [Twitter](https://twitter.com/ChiragKr04) [LinkedIn](https://www.linkedin.com/in/chiragbargoojar/)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chiragkr04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag-bargoojar-41330816b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11855654) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Chirag_04) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChiragKr04) 
