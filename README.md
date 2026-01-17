@@ -8,7 +8,7 @@ Architecting & designing scalable Full-Stack products/applications and always bu
 Skills: Backend Engineering, Go, Typescript, Java, Frontend, React.Js, Javascript, MongoDB, PostgreSQL, Redis, Kafka, Docker, AWS, System Design
 
 - 🔭 I’m currently working on Open source projects and Self projects
-- 🚀 Building [Creator Stock X](https://creatorstockx.com/) - Invest in creators economy 
+- 🚀 Building an AI Platform 😉
 - 💬 Ask me about Anything you want 
 - 📫 How to reach me: [Twitter](https://twitter.com/ChiragKr04) [LinkedIn](https://www.linkedin.com/in/chiragbargoojar/)
 
